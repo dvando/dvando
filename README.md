@@ -14,6 +14,31 @@
 </div>
 
 <h1 align="center">
-  Hi there!! 
+  Hi Folks, Vando here!! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
+
+---
+### :man_technologist: About Me:
+Greetings!! I'm an AI enthusiast from Indonesa.
+- :camera: I work as a Computer Vision Engineer, my main contribution is doing research in perception system for autonomous vehicle.
+- :computer: I have experience in applying Object Detection, Tracking, and Segmentation both in 2D and 3D using several modalities (Camera and LiDar).
+- :book: In my free time, I love to try working on Kaggle challenges, reading books, or doing some exercises.
+- :page_with_curl: I also like to read the latest paper about Computer Vision and deep learning so I didn't get left behind in term of new tech.
+
+
+---
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="30px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" width="30px">
+ </div>

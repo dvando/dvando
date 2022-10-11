@@ -28,7 +28,7 @@ Greetings!! I'm an AI enthusiast from Indonesa.
 
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30px">
@@ -42,3 +42,10 @@ Greetings!! I'm an AI enthusiast from Indonesa.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="30px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/aarch64/aarch64-original.svg" width="30px">
  </div>
+
+---
+### :bowtie: License and Certification:
+<div>
+  <a href="https://www.credly.com/badges/f4728459-9a03-4532-b2b9-b34cca5147b7/public_url">
+  <img src="resources/ibm-ai-engineering-professional-certificate-v2.png">
+</div>

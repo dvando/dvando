@@ -47,5 +47,7 @@ Greetings!! I'm an AI enthusiast from Indonesa.
 ### :bowtie: License and Certification:
 <div>
   <a href="https://www.credly.com/badges/f4728459-9a03-4532-b2b9-b34cca5147b7/public_url">
-  <img src="resources/ibm-ai-engineering-professional-certificate-v2.png">
+  <img src="resources/ibm-ai-engineering-professional-certificate-v2.png" width="128px">
+  <a href="https://www.credly.com/badges/f4f676af-e0ec-4d55-aac6-556b9449ca90/public_url">
+  <img src="resources/applied-data-science-ii-machine-learning-statistical-analysis-with-honors.png"width="128px">
 </div>

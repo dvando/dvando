@@ -23,7 +23,7 @@
 Greetings!! I'm an AI enthusiast from Indonesa.
 - :camera: I work as a Computer Vision Engineer, my main contribution is doing research in perception system for autonomous vehicle.
 - :computer: I have experience in applying Object Detection, Tracking, and Segmentation both in 2D and 3D using several modalities (Camera and LiDar).
-- :book: In my free time, I love to try working on Kaggle challenges, reading books, or doing some exercises.
+- :book: In my free time, I love to try working on online challenges, reading books, or doing some exercises.
 - :page_with_curl: I also like to read the latest paper about Computer Vision and deep learning so I didn't get left behind in term of new tech.
 
 
